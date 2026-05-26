@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachespdate",
+        "uuid": 9460035,
+        "checksum": "gfpld"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
